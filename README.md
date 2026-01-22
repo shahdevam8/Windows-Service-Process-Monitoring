@@ -99,16 +99,3 @@ python monitor.py
 * Real-time monitoring techniques for SOC and incident response.
 * Rule-based detection logic and alerting.
 * Defensive security engineering practices.
-
-## Project Deliverables
-
-1. Project documentation (`README.md` or PDF)
-2. Monitoring agent toolkit (`monitor.py`, `gui.py`)
-3. Logs/screenshots of monitoring results (`logs/` folder)
-4. Flowcharts & architecture diagrams
-5. Detection rules used
-6. Final presentation (PPT)
-
----
-
-*End of Documentation*
